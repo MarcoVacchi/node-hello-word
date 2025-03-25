@@ -1,3 +1,4 @@
 
-let words = "Ciao Mondo"
-module.exports = words; 
+let words = "Ciao Mondo";
+console.log(words);
+ 
